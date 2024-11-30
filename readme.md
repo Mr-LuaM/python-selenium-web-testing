@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ### 3. Run the Test Script
 Run the Selenium test script using:
 ```bash
-python sauce_demo_test.py
+python test.py
 ```
 
 ---
